@@ -1,27 +1,29 @@
-# Project Title
+# James AI Chatbot
 
-Simple overview of use/purpose.
+James AI Chatbot is a generative artificial intelligence designed to make student's learning experience more enjoyable through breaking down complex problems.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+TBD
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+- Browser: Mozzila Firefox v29+, Google Chrome v34+, Safari v11+ and Opera Browser
+- OS: macOS 11.0+, Windows 10+, Linux Kernel 5.x+
+- Python: 3.9+ (recommended on 3.14+)
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+- How/where to download your program
+- Any modifications needed to be made to files/folders
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+- How to run the program
+- Step-by-step bullets
+
 ```
 code blocks for commands
 ```
@@ -29,6 +31,7 @@ code blocks for commands
 ## Help
 
 Any advise for common problems or issues.
+
 ```
 command to run if program contains helper info
 ```
@@ -37,23 +40,24 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Mr Jones
-ex. [@benpaddlejones](https://github.com/benpaddlejones)
+Mr Jones
+[@benpaddlejones](https://github.com/benpaddlejones)
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]() or see [branch]()
-* 0.1
-    * Initial Release
+- 0.2
+  - Various bug fixes and optimizations
+  - See [commit change]() or See [release history]() or see [branch]()
+- 0.1
+  - Initial Release
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GNU GPLv3 License - see the LICENSE.md file for details.
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Github md syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* [TempeHS Python Flask template](https://github.com/TempeHS/TempeHS_Python-Flask_DevContainer)
+
+- [Github md syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [TempeHS Python Flask template](https://github.com/TempeHS/TempeHS_Python-Flask_DevContainer)

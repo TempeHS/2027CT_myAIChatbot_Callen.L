@@ -51,6 +51,24 @@ Mr Jones
 - 0.1
   - Initial Release
 
+## Testing
+
+### User Acceptance Testing Results
+
+Tested on: 23 March 2026
+Tester: Callen Lin
+
+| Test ID | Description                | Status  | Notes                        |
+| ------- | -------------------------- | ------- | ---------------------------- |
+| TC-001  | Normal message response    | ✅ Pass | N/A                          |
+| TC-002  | Empty message handling     | ✅ Pass | N/A                          |
+| TC-003  | Message length validation. | ✅ Pass | N/A                          |
+| TC-004  | Crisis keyword detectionㅤ | ✅ Pass | N/A                          |
+| TC-005  | Disclaimer visibility ㅤ   | ✅ Pass | Moved to the bottom from top |
+| TC-006  | Message styling            | ✅ Pass | N/A                          |
+
+**Summary: All 6 test cases passed. The chatbot meets all functional and non-functional requirements.**
+
 ## License
 
 This project is licensed under the GNU GPLv3 License - see the LICENSE.md file for details.

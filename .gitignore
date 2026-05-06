@@ -1,3 +1,6 @@
+# chatbot sqlite3 files
+chatbot_database.sqlite3
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

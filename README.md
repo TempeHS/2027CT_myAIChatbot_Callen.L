@@ -16,8 +16,14 @@ TBD
 
 ### Installing
 
-- How/where to download your program
-- Any modifications needed to be made to files/folders
+To install the application
+
+1. Download this repository or clone it.
+2. First download python via Homebrew (on macOS) or https://python.org/ or VSCode Extension.
+3. Change directory to the file using "cd path/to/folder".
+4. Create a environment using "python3 -m venv venv".
+5. Install the dependencies with "pip install -r requirements.txt".
+6. To run the program, use "python3 app.py".
 
 ### Executing program
 
@@ -39,6 +45,9 @@ command to run if program contains helper info
 ## Authors
 
 Contributors names and contact info
+
+Callen Lin
+[@CallenLin](https://github.com/CallenLin)
 
 Mr Jones
 [@benpaddlejones](https://github.com/benpaddlejones)

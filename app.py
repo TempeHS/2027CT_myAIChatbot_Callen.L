@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 # Initialize the chatbot
 chatbot = ChatBot(
-    "StudentBot",
+    "James AI Helper",
     storage_adapter="chatterbot.storage.SQLStorageAdapter",
     database_uri="sqlite:///chatbot_database.sqlite3",
 )
